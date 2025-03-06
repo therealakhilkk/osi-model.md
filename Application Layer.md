@@ -3,7 +3,7 @@ The Application Layer is the topmost layer (Layer 7) of the OSI model. It serves
 enabling applications to communicate over a network. This layer directly interacts with end-user applications such as web browsers, 
 email clients, and file transfer tools.
 
-Functions of the Application Layer
+Functions 
 
 Network Services Access – Provides access to network services like web browsing, email, and file sharing.
 
