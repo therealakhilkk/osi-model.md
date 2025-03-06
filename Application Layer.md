@@ -22,8 +22,8 @@ Security Measures: HTTPS, secure authentication, firewalls, and encryption.
 
 Here are some common types of attacks that target the Application layer
 
-SQL Injection (SQLi)
-Man-in-the-Middle (MitM)
-Denial of Service (DoS)
-Cross-Site Scripting (XSS)
-Remote Code Execution (RCE)
+SQL Injection (SQLi),
+Man-in-the-Middle (MitM),
+Denial of Service (DoS),
+Cross-Site Scripting (XSS),
+Remote Code Execution (RCE).
