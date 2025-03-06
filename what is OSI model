@@ -8,6 +8,9 @@ Ensures interoperability between different systems and networks.
 Provides a modular approach, making it easier to troubleshoot and develop network technologies.
 Defines clear responsibilities for each layer, improving network efficiency and security.
 
+It is a 7 layer architecture with each layer having specific functionality to perform.
+All these 7 layers work collaboratively to transmit the data from one person to another across the globel.
+
 Seven Layers of OSI Model
 Physical Layer – Deals with hardware, cables, and signals for data transmission.
 Data Link Layer – Manages MAC addresses, error detection, and framing of data.
