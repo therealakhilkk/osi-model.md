@@ -2,25 +2,25 @@ Session Layer (Layer 5) of the OSI ModelThe Session Layer is the fifth layer of 
 and terminating communication sessions between applications on different devices.This layer ensures that a session is properly managed, 
 allowing data to be synchronized and exchanged efficiently.
 
-Key Functions of the Session Layer
-Session Establishment, Maintenance, and Termination
+Functions 
 
+Session Establishment, Maintenance, and Termination
 Creates and manages a session between two communicating devices.
 Example: Logging into a remote server using SSH.
-Synchronization
 
+Synchronization
 Inserts checkpoints (synchronization points) in long data transfers to ensure recovery in case of failure.
 Example: If a file download is interrupted, resuming from the last checkpoint instead of starting over.
-Dialog Control
 
+Dialog Control
 Determines whether communication is half-duplex (one-way at a time) or full-duplex (both ways simultaneously).
 Example: Video calls require full-duplex communication, while walkie-talkies use half-duplex.
-Authentication and Authorization
 
+Authentication and Authorization
 Ensures that users or devices are properly authenticated before establishing a session.
 Example: Logging into a secure website using a username and password.
-Session Recovery
 
+Session Recovery
 If a session is interrupted, it can recover from the last known good state.
 Example: Online banking transactions need session recovery to prevent data loss in case of a timeout.
 
