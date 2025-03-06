@@ -2,25 +2,25 @@ Transport Layer (Layer 4) of the OSI Model
 The Transport Layer is the fourth layer of the OSI model and is responsible for ensuring reliable and efficient data transfer between devices.
 It provides end-to-end communication, error handling, and flow control to guarantee that data is delivered completely, correctly, and in the right order.
 
-Key Functions of the Transport Layer
-Segmentation and Reassembly
+Functions 
 
+Segmentation and Reassembly
 Divides large data into smaller segments for transmission.
 Reassembles segments in the correct order at the receiver’s end.
-Flow Control
 
+Flow Control
 Regulates data flow to prevent overwhelming a slow receiver.
 Example: If a sender transmits data too fast, flow control slows it down.
-Error Detection and Correction
 
+Error Detection and Correction
 Ensures data integrity by checking for transmission errors.
 Example: Checksums and Acknowledgments (ACK) in TCP.
-Connection Control
 
+Connection Control
 Supports Connection-Oriented (TCP) and Connectionless (UDP) communication.
 TCP ensures reliable, ordered delivery, while UDP is faster but less reliable.
-Multiplexing
 
+Multiplexing
 Enables multiple applications to communicate simultaneously using port numbers.
 Example: A web browser (HTTP - Port 80) and an email client (SMTP - Port 25) can work together on the same device.
 
