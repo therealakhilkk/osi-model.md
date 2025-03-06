@@ -13,3 +13,10 @@ Error Handling & Logging – Manages errors, logs activities, and ensures smooth
 Application Layer in Cybersecurity
 Vulnerabilities: Web attacks (SQL injection, XSS), phishing, and email spoofing.
 Security Measures: HTTPS, secure authentication, firewalls, and encryption.
+
+Here are some common types of attacks that target the Application layer
+SQL Injection (SQLi)
+Man-in-the-Middle (MitM)
+Denial of Service (DoS)
+Cross-Site Scripting (XSS)
+Remote Code Execution (RCE)
