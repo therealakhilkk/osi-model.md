@@ -3,7 +3,8 @@ The Presentation Layer is the sixth layer of the OSI model. It is responsible fo
 the application layer and the lower layers. This layer ensures that the data sent from the application layer is in a format that can be understood by the receiving application, 
 regardless of differences in data formats between systems.
 
-Key Functions of the Presentation Layer
+Functions 
+
 Data Translation: Converts data from the format used by the application into a common format for transmission over the network and vice versa at the destination.
 Example: Converting ASCII to EBCDIC or JPEG to GIF.
 
