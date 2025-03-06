@@ -31,8 +31,8 @@ Session Timeout Policies: Automatically logs out inactive users to prevent unaut
 
 Here are some common types of attacks that target the Session layer
 
-Session Hijacking
-Session Fixation
-Man-in-the-Middle (MitM) Attacks
-Cross-Site Request Forgery (CSRF)
-Session Sidejacking
+Session Hijacking,
+Session Fixation,
+Man-in-the-Middle (MitM) Attacks,
+Cross-Site Request Forgery (CSRF),
+Session Sidejacking.
