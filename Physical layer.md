@@ -2,7 +2,8 @@ Physical Layer (Layer 1) of the OSI Model
 The Physical Layer is the lowest layer (Layer 1) of the OSI model. It is responsible for the transmission of raw binary data (0s and 1s) over the physical medium, such as cables, radio waves, or optical fibers. 
 This layer defines the electrical, mechanical, and procedural characteristics of the network’s physical connection.
 
-Key Functions of the Physical Layer
+Functions
+
 Bit Transmission
 Converts digital data (0s and 1s) into electrical, optical, or radio signals for transmission.
 Example: Converting binary data into light pulses in fiber optic cables.
