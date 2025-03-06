@@ -2,23 +2,24 @@ Network Layer (Layer 3) of the OSI Model
 The Network Layer is the third layer of the OSI model and is responsible for routing, addressing, and forwarding data between devices across different networks. 
 It determines the best path for data to travel from the source to the destination, ensuring that packets reach the correct recipient.
 
-Key Functions of the Network Layer
-Logical Addressing (IP Addressing)
+Functions 
 
+Logical Addressing (IP Addressing)
 Assigns a unique address (IP address) to each device on the network.
 Example: IPv4 (192.168.1.1) and IPv6 (2001:db8::1).
-Routing
 
+Routing
 Determines the best path for data packets to travel between networks.
 Uses routing algorithms and protocols (e.g., OSPF, BGP, RIP).
-Packet Forwarding
 
+Packet Forwarding
 Moves packets from one network to another based on IP addresses.
 Example: A router forwards packets from a home network to the internet.
-Fragmentation and Reassembly
 
+Fragmentation and Reassembly
 Splits large packets into smaller fragments for transmission.
 Reassembles them at the destination device.
+
 Error Handling and Congestion Control
 Detects and resolves issues like lost packets or network congestion.
 
