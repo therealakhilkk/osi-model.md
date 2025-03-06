@@ -2,7 +2,7 @@ Data Link Layer (Layer 2) of the OSI Model
 The Data Link Layer is the second layer of the OSI model, responsible for enabling reliable communication between directly connected devices. 
 It ensures error-free data transfer between network nodes and controls access to the physical transmission medium.
 
-Key Functions of the Data Link Layer
+Functions 
 
 Framing
 Converts raw bits into frames for efficient transmission.
